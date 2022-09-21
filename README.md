@@ -4,7 +4,7 @@
  - Location: Taiwan Kaohsiung
  - Personal Website: https://github.com/AlanChou1995
  - E-Mail: alanchou19950414@gmail.com
- - Mobile: 0970-688-851
+
 
 # Professional Tools <br>
 
