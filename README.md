@@ -1,7 +1,7 @@
 # Alan (Sheng-Lun Chou)
 
  - Birthday: Apr 14th , 1995
- - Location: Kaohsiung
+ - Location: Taiwan Kaohsiung
  - Personal Website: https://github.com/AlanChou1995
  - E-Mail: alanchou19950414@gmail.com
  - Mobile: 0970-688-851
