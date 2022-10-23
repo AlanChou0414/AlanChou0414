@@ -15,10 +15,10 @@
  - HTML & CSS3
    > CSS framework:  "Ant Design",  "Bootstrap",  "Gatsby",  "Emotion"  <br>
    > Responsive Web Design
- - Familiar Framework: 
+ - Familiar Framework
    > React <br>
    > React Hooks
- - Tools:
+ - Tools
    > Version control systems : Git & Github
 
 # Professional Skill & Project<br>
