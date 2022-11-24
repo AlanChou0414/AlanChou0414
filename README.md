@@ -17,7 +17,6 @@
    > Responsive Web Design
  - Familiar Framework
    > React <br>
-   > React Hooks
  - Tools
    > Version control systems : Git & Github
 
