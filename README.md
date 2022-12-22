@@ -34,7 +34,7 @@
   > 使用React框架串接API，並應用Hooks撰寫UI及功能。 <br>
   > 能夠切換臺灣各縣市天氣及儲存使用者資料，並根據每日日出日沒變換天氣圖示及主題。
 
-- Lottery app : https://github.com/AlanChou1995/project_Weather-app.git
+- Lottery app : https://alanchou1995.github.io/Lottery-App_jQuery/
   > 練習使用jQuery製作功能及UI。 <br>
   > 比照大樂透遊戲模式，使用者能夠自選或隨機下注，按下兌獎後會顯示中獎號碼。
 
