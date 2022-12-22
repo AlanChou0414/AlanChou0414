@@ -13,7 +13,7 @@
    > CSS <br>
    > HTML
  - HTML & CSS3
-   > CSS framework:  "Ant Design",  "Bootstrap",  "Gatsby",  "Emotion"  <br>
+   > CSS framework:  "Bootstrap", "Emotion"  <br>
    > Responsive Web Design
  - Familiar Framework
    > React <br>
