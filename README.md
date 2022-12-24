@@ -74,7 +74,7 @@
   > 使用React框架應用Hooks製作簡易的網路速度換算app。 <br>
   > 能夠儲存使用者資料，並根據使用者輸入的數字換算網速及顯示Slow、Good、Fast等功能。
 
-- TodosList app : https://github.com/AlanChou1995/project_TodoList-app.git
+- Todoslist app : https://github.com/AlanChou1995/project_TodoList-app.git
   > 使用React框架應用Hooks製作簡易的待辦事項app。 <br>
   > 能夠儲存使用者資料，並設有新增、已完成、未完成及刪除功能。
 
