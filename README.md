@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alan Chou </h1>
+<h1 align="center">Hi 👋,  I'm Alan Chou,  
+  Nice to see you. </h1>
 
   <br>
   <br>
