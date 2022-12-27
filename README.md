@@ -43,20 +43,20 @@
 
 
 - Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app.git
-  > 使用React框架應用Hooks製作簡易的網路速度換算app。 <br>
-  > 能夠儲存使用者資料，並根據使用者輸入的數字換算網速及顯示Slow、Good、Fast等功能。
+  > The app create a simple internet speed conversion app using the React framework with Hooks. <br>
+  > It will convert internet speeds based on the numbers inputted by the user and display them as "Slow", "Good", or "Fast".
 
 - Todoslist app : https://github.com/AlanChou1995/project_TodoList-app.git
-  > 使用React框架應用Hooks製作簡易的待辦事項app。 <br>
-  > 能夠儲存使用者資料，並設有新增、已完成、未完成及刪除功能。
+  > The app create a simple to-do list app using the React framework with Hooks. <br>
+  > It will be able to store user data and have features for "adding", "marking as complete", "marking as incomplete", "deleting items".
 
 - Weather app : https://github.com/AlanChou1995/project_Weather-app.git
-  > 使用React框架串接API，並應用Hooks撰寫UI及功能。 <br>
-  > 能夠切換臺灣各縣市天氣及儲存使用者資料，並根據每日日出日沒變換天氣圖示及主題。
+  > The app use the React framework to connect to an API and utilize Hooks to write the UI and functionality. <br>
+  > It will allow users to switch between cities and change the weather icon and theme based on the daily sunrise and sunset.
 
 - Lottery app : https://alanchou1995.github.io/Lottery-App_jQuery/
-  > 練習使用jQuery製作功能及UI。 <br>
-  > 比照大樂透遊戲模式，使用者能夠自選或隨機下注，按下兌獎後會顯示中獎號碼。
+  > The app using jQuery to create functions and UI. <br>
+  > Use the lottery game as a model.
 
 
 
