@@ -3,6 +3,7 @@
 
   <br>
   <br>
+  
 <h3>📂 Information</h3>
 
  - 📍 : Taiwan Kaohsiung 🇹🇼
@@ -12,16 +13,6 @@
 
  <br>
  <br>
-<h3>👍🏻 Attributes</h3>
-
- - I have a quick ability to learn.
- - I constantly improve myself.
- - I'm a team player.
- - I'm not afraid of facing difficulties.
- - I'm able to self-manage.
-
-  <br>
-  <br>
 
 
 <h2 align="center">📚︎ I Have Learned :</h2>
