@@ -13,6 +13,16 @@
 
  <br>
  <br>
+ 
+ <h3>👍🏻 Attributes</h3>
+
+  - I constantly improve myself.
+  - I'm a team player.
+  - I'm not afraid of facing difficulties.
+  - I'm able to self-manage.
+
+  <br>
+  <br>
 
 
 <h2 align="center">📚︎ I Have Learned :</h2>
