@@ -94,7 +94,7 @@
   > The app use the React framework to connect to an API and utilize Hooks to write the UI and functionality. <br>
   > It will allow users to switch between cities and change the weather icon and theme based on the daily sunrise and sunset.
 
-- Lottery app : https://alanchou1995.github.io/Lottery-App_jQuery/
+- Lottery app : https://github.com/AlanChou1995/Lottery-App_jQuery
   > The app using jQuery to create functions and UI. <br>
   > Use the lottery game as a model.
 
