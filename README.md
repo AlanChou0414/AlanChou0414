@@ -86,7 +86,7 @@
   > The app create a simple internet speed conversion app using the React framework with Hooks. <br>
   > It will convert internet speeds based on the numbers inputted by the user and display them as "Slow", "Good", or "Fast".
 
-- Todoslist app : alanchou1995.github.io/Todos-app/
+- Todoslist app : https://alanchou1995.github.io/Todos-app/
   > The app create a simple to-do list app using the React framework with Hooks. <br>
   > It will be able to localstorage user data and have features for "Add", "Delete", "Edit".
 
