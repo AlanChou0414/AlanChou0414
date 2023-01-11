@@ -86,13 +86,9 @@
   > The app create a simple internet speed conversion app using the React framework with Hooks. <br>
   > It will convert internet speeds based on the numbers inputted by the user and display them as "Slow", "Good", or "Fast".
 
-- Todoslist app : https://github.com/AlanChou1995/project_TodoList-app.git
+- Todoslist app : alanchou1995.github.io/Todos-app/
   > The app create a simple to-do list app using the React framework with Hooks. <br>
-  > It will be able to store user data and have features for "adding", "marking as complete", "marking as incomplete", "deleting items".
-
-- Weather app : https://github.com/AlanChou1995/project_Weather-app.git
-  > The app use the React framework to connect to an API and utilize Hooks to write the UI and functionality. <br>
-  > It will allow users to switch between cities and change the weather icon and theme based on the daily sunrise and sunset.
+  > It will be able to localstorage user data and have features for "Add", "Delete", "Edit".
 
 - Lottery app : https://github.com/AlanChou1995/Lottery-App_jQuery
   > The app using jQuery to create functions and UI. <br>
