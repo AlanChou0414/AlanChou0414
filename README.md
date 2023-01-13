@@ -109,14 +109,6 @@
 </p>
 
 
-  <br>
-
-<h2 align="center">⭐️ Most Used Language : </h2>
- 
-<p align="center">
-  <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou1995&theme=dark" />
-</p>
-
 
   <br>
 
