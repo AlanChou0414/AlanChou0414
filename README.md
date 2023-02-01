@@ -107,7 +107,13 @@
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=AlanChou1995&&theme=onedark&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
-
+  <br>
+  
+<h2 align="center">🔝 Most Used Language : </h2>
+ 
+<p align="center">
+  <img alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou1995&theme=dark" />
+</p>
 
   <br>
 
@@ -116,7 +122,6 @@
 <p align="center">
   <img alt="Github Streak Stats" src="https://streak-stats.demolab.com/?user=AlanChou1995&theme=dark" />
 </p>
-
 
   <br>
 
