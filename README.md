@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻,  I'm Alan Chou,  
   Nice to see you. </h1>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlanChou1995&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AlanChou1995&style=for-the-badge&color=yellow">
   </p>
   
   <br>
