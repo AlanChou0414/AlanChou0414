@@ -95,6 +95,10 @@
   > The app using jQuery to create functions and UI. <br>
   > Use the lottery game as a model.
 
+- Password generator app : https://github.com/AlanChou0414/password-generator
+  > The app can create random password. <br>
+  > Build with react framework.
+
 
 
   <br>
