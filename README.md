@@ -95,9 +95,13 @@
   > The app using jQuery to create functions and UI. <br>
   > Use the lottery game as a model.
 
-- Password generator app : https://github.com/AlanChou0414/password-generator
-  > The app can create random password. <br>
+- Password generator : https://github.com/AlanChou0414/password-generator
+  > The app features for create random password. <br>
   > Build with react framework.
+
+- User Management System : https://github.com/AlanChou0414/login-system/blob/main/README.md
+  > The app using react and express framework to demo login and signup system. <br>
+  > features for "Create", "Read", "Update", "Delete".
 
 
 
