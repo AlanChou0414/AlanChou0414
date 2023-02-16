@@ -83,24 +83,23 @@
 
 
 - Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app.git
-  > The app create a simple internet speed conversion app using the React framework with Hooks. <br>
-  > It will convert internet speeds based on the numbers inputted by the user and display them as "Slow", "Good", or "Fast".
+  > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
+  > The app is designed to be easy to use and provides quick and accurate conversions between network speed units.
 
 - Todoslist app : https://github.com/AlanChou1995/Todos-app
   > The app create a simple to-do list app using the React framework with Hooks. <br>
   > It will be able to localstorage user data and have features for "Add", "Delete", "Edit".
 
 - Lottery app : https://github.com/AlanChou1995/Lottery-App_jQuery
-  > The app using jQuery to create functions and UI. <br>
-  > Use the lottery game as a model.
+  > The Lottery game application is a web application built using jQuery to create the functions and user interface. The app is a model of a lottery game, where users can select a set of numbers and wait for the winning numbers to be drawn.
 
 - Password generator : https://github.com/AlanChou0414/password-generator
-  > The app features for create random password. <br>
-  > Build with react framework.
+  > This is a React app that generates random passwords. <br>
+  > The app is built using React.
 
 - User Management System : https://github.com/AlanChou0414/login-system/blob/main/README.md
-  > The app using react and express framework to demo login and signup system. <br>
-  > features for "Create", "Read", "Update", "Delete".
+  > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
+  > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
 
 
 
