@@ -10,7 +10,7 @@
 
  - 📍 : Taiwan Kaohsiung 🇹🇼
  - 💪🏻 : I’m currently learning web technology
- - 🖥 : https://www.cakeresume.com/alanchou1995
+ - 📝 : https://www.cakeresume.com/alanchou1995
  - 📮 : alanchou19950414@gmail.com
 
  <br>
