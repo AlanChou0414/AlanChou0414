@@ -81,6 +81,8 @@
   <br>
 <h2 align="center">📄 Projects :</h2>
 
+- Circular Journeys Travel Site ( Currently in development ) : https://github.com/AlanChou0414/circular-journeys
+  > I was responsible for developing the membership system, which allows users to register for an account, log in, and access member-exclusive content. The system also includes features such as password reset, account settings, and email notifications. To build the system, I used technologies such as React, Express, Node.js, and MySQL.
 
 - Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
   > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
