@@ -82,7 +82,7 @@
 <h2 align="center">📄 Side Project :</h2>
 
 
-- Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app.git
+- Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
   > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
   > The app is designed to be easy to use and provides quick and accurate conversions between network speed units.
 
@@ -97,7 +97,7 @@
   > This is a React app that generates random passwords. <br>
   > The app is built using React.
 
-- User Management System : https://github.com/AlanChou0414/login-system/blob/main/README.md
+- User Management System : https://github.com/AlanChou0414/login-system
   > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
   > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
 
