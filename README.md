@@ -79,7 +79,7 @@
 </p>
   <br>
   <br>
-<h2 align="center">📄 Side Project :</h2>
+<h2 align="center">📄 Projects :</h2>
 
 
 - Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
