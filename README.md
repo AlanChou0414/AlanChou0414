@@ -84,9 +84,13 @@
 - Circular Journeys Travel Site ( Currently in development ) : https://github.com/AlanChou0414/circular-journeys
   > I was responsible for developing the membership system, which allows users to register for an account, log in, and access member-exclusive content. The system also includes features such as password reset, account settings, and email notifications. To build the system, I used technologies such as React, Express, Node.js, and MySQL.
 
-- Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
-  > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
-  > The app is designed to be easy to use and provides quick and accurate conversions between network speed units.
+- Password generator : https://github.com/AlanChou0414/password-generator
+  > This is a React app that generates random passwords. <br>
+  > The app is built using React.
+
+- User Management System : https://github.com/AlanChou0414/login-system
+  > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
+  > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
 
 - Todoslist app : https://github.com/AlanChou1995/Todos-app
   > The app create a simple to-do list app using the React framework with Hooks. <br>
@@ -95,13 +99,12 @@
 - Lottery app : https://github.com/AlanChou1995/Lottery-App_jQuery
   > The Lottery game application is a web application built using jQuery to create the functions and user interface. The app is a model of a lottery game, where users can select a set of numbers and wait for the winning numbers to be drawn.
 
-- Password generator : https://github.com/AlanChou0414/password-generator
-  > This is a React app that generates random passwords. <br>
-  > The app is built using React.
+- Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
+  > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
+  > The app is designed to be easy to use and provides quick and accurate conversions between network speed units.
 
-- User Management System : https://github.com/AlanChou0414/login-system
-  > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
-  > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
+
+
 
 
 
