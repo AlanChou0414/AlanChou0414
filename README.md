@@ -88,7 +88,7 @@
   > This is a React app that generates random passwords. <br>
   > The app is built using React.
 
-- User Management System : https://github.com/AlanChou0414/login-system
+- Login System : https://github.com/AlanChou0414/login-system
   > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
   > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
 
