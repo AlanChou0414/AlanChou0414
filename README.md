@@ -85,6 +85,9 @@
   <br>
 <h2 align="center">📄 Projects :</h2>
 
+- Weather App : https://github.com/AlanChou0414/weather-app
+  > I have developed a weather application using Vite, React, and TypeScript. The search bar is optimized with debounce technology to improve the search experience.
+
 - Circle Up : https://github.com/AlanChou0414/circle-up
   > Circle Up is built using React and Firebase to provide its functionality, and utilizes Semantic UI React for its UI design.
 
