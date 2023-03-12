@@ -9,7 +9,7 @@
 <h3>📂 Information</h3>
 
  - 📍 : Taiwan Kaohsiung 🇹🇼
- - 💪🏻 : I’m currently learning web technology
+ - 💪🏻 : I'm currently learning web development
  - 📝 : <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>https://www.cakeresume.com/alanchou1995</a>
  - 📮 : choushenglun0414@gmail.com
  - 🖥️ : https://circle-up-58d84.web.app
