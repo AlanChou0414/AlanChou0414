@@ -11,9 +11,9 @@
  - 📍 : Taiwan Kaohsiung 🇹🇼
  - 💪🏻 : I'm currently learning web development
  - 📝 : <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>https://www.cakeresume.com/alanchou1995</a>
- - 📮 : choushenglun0414@gmail.com
- - ⭕ : https://circle-up-58d84.web.app
- - 🖥️ : https://website-f03e6.web.app
+ - 📮 : choushenglun0414@gmail.com 
+ - ⭕ : <a href="https://circle-up-58d84.web.app" target='_blank'>https://circle-up-58d84.web.app</a>
+ - 🖥️ : <a href="https://website-f03e6.web.app" target='_blank'>https://website-f03e6.web.app</a>
 
  <br>
  <br>
