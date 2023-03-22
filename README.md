@@ -5,29 +5,22 @@
   </p>
   
   <br>
-  
-<h3>📂 Information</h3>
 
- - 📍 : Taiwan Kaohsiung 🇹🇼
- - 💪🏻 : I'm currently learning web development
- - 📝 : <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>https://www.cakeresume.com/alanchou1995</a>
+ ### About Me
+  > 📍  Taichung Taiwan 🇹🇼 <br>
+  > 🌐  Sofware Developer <br>
+  > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br>
+  > 📮  <a href="choushenglun0414@gmail.com" target='_blank'>Email</a> <br>
+
+ - 📍：Taiwan Taichung 🇹🇼
+ - 💪🏻：I'm a Sofware Developer
+ - 📝：<a href="https://www.cakeresume.com/alanchou1995" target='_blank'>https://www.cakeresume.com/alanchou1995</a>
  - 📮 : choushenglun0414@gmail.com 
  - ⭕ : <a href="https://circle-up-58d84.web.app" target='_blank'>https://circle-up-58d84.web.app</a>
  - 🖥️ : <a href="https://website-f03e6.web.app" target='_blank'>https://website-f03e6.web.app</a>
 
  <br>
  <br>
- 
- <h3>👍🏻 Attributes</h3>
-
-  - I constantly improve myself.
-  - I'm a team player.
-  - I'm not afraid of facing difficulties.
-  - I'm able to self-manage.
-
-  <br>
-  <br>
-
 
 <h2 align="center">📚︎ I Have Learned :</h2>
 <p align="center"> 
@@ -112,37 +105,17 @@
   > I have developed a weather application using Vite, React, and TypeScript. The search bar is optimized with debounce technology to improve the search  experience.
 
 
-
-
-
-
   <br>
   <br>
   <br>
 
 
-
-<h2 align="center">🥇 My Github Trophy : </h2>
+<h2 align="center">🫰🏻 My State : </h2>
  
-<p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=AlanChou0414&&theme=onedark&row=2&column=3&margin-w=10&margin-h=10" />
-</p>
-
-  <br>
-  
-<h2 align="center">🔝 Most Used Language : </h2>
- 
-<p align="center">
-  <img alt="GitHub Trophy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou0414&theme=dark" />
-</p>
-
-  <br>
-
-<h2 align="center">⭐️ My Github Streak Stats : </h2>
- 
-<p align="center">
-  <img alt="Github Streak Stats" src="https://streak-stats.demolab.com/?user=AlanChou0414&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=AlanChou0414" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AlanChou0414" height="160" alt="languages graph" />
+</div>
 
   <br>
 
