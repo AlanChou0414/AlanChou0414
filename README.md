@@ -31,7 +31,7 @@
 <br>
 
 
-> Front End
+> Frontend
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="45" alt="react"/>
@@ -45,7 +45,7 @@
   
 <br>  
   
-> Back End
+> Backend
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="45" alt="express"/>
