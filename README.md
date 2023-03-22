@@ -8,16 +8,14 @@
 
  ### About Me
   > 📍  Taichung Taiwan 🇹🇼 <br>
+  > 
   > 🌐  Sofware Developer <br>
+  > 
   > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br>
-  > 📮  <a href="choushenglun0414@gmail.com" target='_blank'>Email</a> <br>
-
- - 📍：Taiwan Taichung 🇹🇼
- - 💪🏻：I'm a Sofware Developer
- - 📝：<a href="https://www.cakeresume.com/alanchou1995" target='_blank'>https://www.cakeresume.com/alanchou1995</a>
- - 📮 : choushenglun0414@gmail.com 
- - ⭕ : <a href="https://circle-up-58d84.web.app" target='_blank'>https://circle-up-58d84.web.app</a>
- - 🖥️ : <a href="https://website-f03e6.web.app" target='_blank'>https://website-f03e6.web.app</a>
+  > 
+  > 📮  <a href="mailto:choushenglun0414@gmail.com">Email</a> <br>
+  > 
+  > 🖥️  <a href="https://website-f03e6.web.app" target='_blank'>Personal Website</a>
 
  <br>
  <br>
