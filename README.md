@@ -111,7 +111,7 @@
 ## 🫰🏻 State
  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=AlanChou0414" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=AlanChou0414" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanChou0414&theme=dark" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou0414&layout=compact&theme=dark" />
 </div>
 
