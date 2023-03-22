@@ -90,9 +90,6 @@
   <br>
 <h2 align="center">📄 Projects :</h2>
 
-- Weather App : https://github.com/AlanChou0414/weather-app
-  > I have developed a weather application using Vite, React, and TypeScript. The search bar is optimized with debounce technology to improve the search experience.
-
 - Circle Up : https://github.com/AlanChou0414/circle-up
   > Circle Up is built using React and Firebase to provide its functionality, and utilizes Semantic UI React for its UI design.
 
@@ -103,20 +100,16 @@
   > This is a React app that generates random passwords. <br>
   > The app is built using React.
 
-- Login System : https://github.com/AlanChou0414/login-system
-  > The Login and Signup application is a full-stack web application built using the React and Express frameworks. <br>
-  > The Login and Signup application is a useful tool for any website or web application that requires user authentication and authorization.
-
 - Todoslist app : https://github.com/AlanChou1995/Todos-app
   > The app create a simple to-do list app using the React framework with Hooks. <br>
   > It will be able to localstorage user data and have features for "Add", "Delete", "Edit".
 
-- Lottery app : https://github.com/AlanChou1995/Lottery-App_jQuery
-  > The Lottery game application is a web application built using jQuery to create the functions and user interface. The app is a model of a lottery game, where users can select a set of numbers and wait for the winning numbers to be drawn.
-
 - Network Speed Converter app : https://github.com/AlanChou1995/project_SpeedConverter-app
   > The Network Speed Converter app is a utility app that allows users to easily convert between different network speed units.  <br>
   > The app is designed to be easy to use and provides quick and accurate conversions between network speed units.
+
+- Weather App : https://github.com/AlanChou0414/weather-app
+  > I have developed a weather application using Vite, React, and TypeScript. The search bar is optimized with debounce technology to improve the search  experience.
 
 
 
