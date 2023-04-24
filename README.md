@@ -36,6 +36,7 @@
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="45" alt="nextjs"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="45" alt="react"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="45" alt="redux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="45" alt="html"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="45" alt="css"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="45" alt="sass"/>
@@ -82,7 +83,7 @@
   </div>
 
 <br>
-
+<!-- 
 ## 📄 Projects
 
 - Circle Up : https://github.com/AlanChou0414/circle-up
@@ -107,7 +108,7 @@
   > I have developed a weather application using Vite, React, and TypeScript. The search bar is optimized with debounce technology to improve the search  experience.
 
 
-<br>
+<br> -->
 
 ## 🫰🏻 State
  
