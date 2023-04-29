@@ -83,6 +83,15 @@
   </div>
 
 <br>
+
+## 🫰🏻 State
+ 
+<div align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanChou0414&theme=dark" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou0414&layout=compact&theme=dark" />
+</div>
+
+
 <!-- 
 ## 📄 Projects
 
@@ -109,11 +118,3 @@
 
 
 <br> -->
-
-## 🫰🏻 State
- 
-<div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlanChou0414&theme=dark" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanChou0414&layout=compact&theme=dark" />
-</div>
-
