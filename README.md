@@ -11,11 +11,11 @@
   > 
   > 🌐  Sofware Developer <br>
   > 
-  > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br>
+<!--   > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br> -->
   > 
   > 📮  <a href="mailto:choushenglun0414@gmail.com">Email</a> <br>
   > 
-  > 🖥️  <a href="https://website-f03e6.web.app" target='_blank'>Personal Website</a>
+<!--   > 🖥️  <a href="https://website-f03e6.web.app" target='_blank'>Personal Website</a> -->
 
 <br>
 
