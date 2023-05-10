@@ -11,11 +11,9 @@
   > 
   > 🌐  Sofware Developer <br>
   > 
-<!--   > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br> -->
-  > 
   > 📮  <a href="mailto:choushenglun0414@gmail.com">Email</a> <br>
-  > 
-<!--   > 🖥️  <a href="https://website-f03e6.web.app" target='_blank'>Personal Website</a> -->
+<!--   > 📝  <a href="https://www.cakeresume.com/alanchou1995" target='_blank'>Resume</a> <br> -->
+<!-- href="https://website-f03e6.web.app" target='_blank'>Personal Website</a> -->
 
 <br>
 
@@ -62,6 +60,7 @@
   <div align="left">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> 
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"> 
