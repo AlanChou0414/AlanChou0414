@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻,  I'm Alan Chou,  Nice to see you. </h1>
+<h1 align="center">Hi 👋🏻  I'm Alan Chou,  Nice to see you. </h1>
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=AlanChou0414&style=for-the-badge&color=green">
